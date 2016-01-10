@@ -17,7 +17,7 @@ How to Browse This Document
 
 This document is intended to be a companion to the Introduction to Python course taught at Heroes Academy.  For more information about Heroes Academy, please visit it `here`__.
 
-Below and to the left you will find the sections of this document.  Each week there will be exercises to complete at home, as well as supplementary materials for further understanding and learning.  The topic of Artificial Intelligence is very broad and not everything can be covered.  In fact, a large majority of what is covered is cherry picked to get a taste for the flavor of how Computer Scientists solve decision making problems, like game playing and problem solving.
+Below and to the left you will find the sections of this document.  Each week there will be exercises to complete at home, as well as supplementary materials for further understanding and learning.  Python has a rich suite of tools for problem solving and carrying out computational tasks.  We will cover the fundamentals without touching too deeply into the more sophisticated features that require extra study.
 
 .. _HeroesSite: http://www.njgifted.org/course-view?course=beginning-computer-programming-with-python
 
