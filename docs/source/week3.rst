@@ -1,3 +1,14 @@
-Week 3: If-Elif-Else and Booleans
-=================================
+Week 3: Turtles
+===============
 
+Summary
+^^^^^^^
+
+Homework
+^^^^^^^^
+
+Extra Resources
+^^^^^^^^^^^^^^^
+
+Lecture Slides
+^^^^^^^^^^^^^^

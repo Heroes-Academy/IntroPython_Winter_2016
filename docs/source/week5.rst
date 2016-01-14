@@ -1,2 +1,15 @@
-Week 5: Turtles
-===============
+Week 5: Loops
+=============
+
+
+Summary
+^^^^^^^
+
+Homework
+^^^^^^^^
+
+Extra Resources
+^^^^^^^^^^^^^^^
+
+Lecture Slides
+^^^^^^^^^^^^^^

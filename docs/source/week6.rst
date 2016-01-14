@@ -1,2 +1,15 @@
-Week 6: Loops
-=============
+Week 6: Basic Functions
+=======================
+
+
+Summary
+^^^^^^^
+
+Homework
+^^^^^^^^
+
+Extra Resources
+^^^^^^^^^^^^^^^
+
+Lecture Slides
+^^^^^^^^^^^^^^
