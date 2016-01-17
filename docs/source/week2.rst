@@ -7,8 +7,13 @@ Summary
 
 To come after the lesson.
 
-Homework
-^^^^^^^^
+In-Class and Homework Exercises
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+There are 5 exercises that you should complete.
+You can find them as python files in the github repository `here <https://github.com/Heroes-Academy/IntroPython_Winter_2016/tree/master/docs/code>`_
+or you can find them as iPython/Jupyter Notebooks `here <http://nbviewer.jupyter.org/github/HEROES-Academy/IntroPython_Winter_2016/tree/master/notebooks>`_.
+
 
 Extra Resources
 ^^^^^^^^^^^^^^^
