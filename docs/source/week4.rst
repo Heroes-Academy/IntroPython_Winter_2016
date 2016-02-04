@@ -24,6 +24,10 @@ Videos
 1. `Khan Academy <https://www.youtube.com/watch?v=zEyEC34MY1A>`_
 2. `Trevor Payne <https://www.youtube.com/watch?v=19EfbO5D_8s>`_
 
+Extra Challenge
+^^^^^^^^^^^^^^^
+1. :doc:`challenges/turtle_coordinate_challenge.rst`
+
 Turtle Trinkets
 ^^^^^^^^^^^^^^^
 
