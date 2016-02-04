@@ -26,7 +26,7 @@ Videos
 
 Extra Challenge
 ^^^^^^^^^^^^^^^
-1. :doc:`challenges/turtle_coordinate_challenge.rst`
+1. :doc:`challenges/turtle_coordinate_challenge`
 
 Turtle Trinkets
 ^^^^^^^^^^^^^^^
