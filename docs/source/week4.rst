@@ -19,6 +19,11 @@ Extra Resources
 2. In week 3, there are a bunch of turtle trinkets.
 3. There are several trinkets below.  Use them for reference and for practicing.
 
+Videos
+^^^^^^
+1. `Khan Academy <https://www.youtube.com/watch?v=zEyEC34MY1A>`_
+1. `Trevor Payne <https://www.youtube.com/watch?v=19EfbO5D_8s>`_
+
 Turtle Trinkets
 ^^^^^^^^^^^^^^^
 
