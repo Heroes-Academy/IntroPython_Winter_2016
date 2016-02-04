@@ -10,6 +10,7 @@ Turtles are awesome because we can make them do many things.
 Let's create the turtle first:
 
 .. code-block:: python
+   :linenos:
 
     import turtle
     bob = turtle.Turtle()
@@ -18,6 +19,7 @@ Let's create the turtle first:
 Now,  in the following, we can make the turtle go to very specific coordinates:
 
 .. code-block:: python
+   :linenos:
 
     bob.setpos(100,0)
 
@@ -28,6 +30,8 @@ We can use this to make interesting things.
 For example, if I want to make bob do a triangle without a for loop:
 
 .. code-block:: python
+   :linenos:
+
     bob.setpos(-100, 0)
     bob.setpos(0,100)
     bob.setpos(100,0)
@@ -36,6 +40,8 @@ For example, if I want to make bob do a triangle without a for loop:
 What's even cooler is that we can use variables to make this scalable:
 
 .. code-block:: python
+   :linenos:
+
     tri_size = 30
     bob.setpos(-1*tri_size, 0)
     bob.setpos(0, 1*tri_size)
@@ -47,6 +53,8 @@ What if we could store all of the coordinates ahead of time and then
 use a for loop to loop over the coordinates?
 
 .. code-block:: python
+   :linenos:
+
     tri_size = 130
     coords = [[-1, 0], [0, 1], [1, 0], [-1, 0]]
     for coord in coords:
