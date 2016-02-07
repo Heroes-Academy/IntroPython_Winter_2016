@@ -3,17 +3,17 @@ Week 5: Loops
 
 
 Summary
-^^^^^^^
+-------
 
 The summary will come after the class.
 
 Homework
-^^^^^^^^
+--------
 
 The homework will be definitely determined after class, but it will probably be the ones specified in the slides.
 
 Extra Resources
-^^^^^^^^^^^^^^^
+---------------
 
 Videos
 ^^^^^^
@@ -22,7 +22,7 @@ Videos
 1. `Trevor Payne <https://www.youtube.com/watch?v=6HWK6O4-28E>`_
 
 Lecture Slides
-^^^^^^^^^^^^^^
+--------------
 
 .. raw:: html
 
