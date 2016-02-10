@@ -20,7 +20,8 @@ Homework
     - During each loop iteration, ask them for an item and add it to a list
     - See the slides for other details
 2. Work on the dice_rolls.py.
-    - It is found in the github repository.  You can find it by clicking "edit on github" above or by `clicking here <https://github.com/Heroes-Academy/IntroPython_Winter_2016>`_.
+    - It is found in the github repository in the code/week5 folder.
+        + You can find it by clicking "edit on github" above or by `clicking here <https://github.com/Heroes-Academy/IntroPython_Winter_2016>`_.
     - Email me if you have questions
 
 
