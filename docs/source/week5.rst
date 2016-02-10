@@ -5,12 +5,24 @@ Week 5: Loops
 Summary
 -------
 
-The summary will come after the class.
+Because the snowstorm had still set us back, we started with a refresher of container types.  
+We then covered lists in depth while briefly covering dictionaries, sets, and tuples. 
+
+We talked about how strings are treated as lists when it comes to indexing and slicing. 
+Finally, we introduced `while` loops and talked about how conditions are handled by the while.
 
 Homework
 --------
 
-The homework will be definitely determined after class, but it will probably be the ones specified in the slides.
+1. From week 4's slides (the last slide):
+    - tell the user you are making a list.
+    - ask them for the number of items and loop that many times using a for loop
+    - During each loop iteration, ask them for an item and add it to a list
+    - See the slides for other details
+2. Work on the dice_rolls.py. 
+    - It is found in the github repository.  You can find it by clicking "edit on github" above or by `clicking here <https://github.com/Heroes-Academy/IntroPython_Winter_2016>`_.
+    - Email me if you have questions
+    
 
 Extra Resources
 ---------------
