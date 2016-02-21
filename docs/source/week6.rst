@@ -1,7 +1,6 @@
 Week 6: Basic Functions
 =======================
 
-
 Summary
 -------
 
@@ -32,9 +31,41 @@ Homework
   - drawing each letter of your initials
     - you could do more letters if you want to spell your name
   - a function that uses the letter drawing and jumping to draw both initials or to write a word
-2. Turn your code from week 5 into functions
+
+Turtle Functions
+^^^^^^^^^^^^^^^^
+
+1. spiral
+  - the first argument should be the turtle
+  - the additional arguments should be the angle and the number loop iterations
+2. polygon
+  - the first argument should be the turtle
+  - the additional arguments should be side length and number of sides
+3. jump
+  - the first argument should be the turtle
+  - the additional arguments should be the new position (x and y)
+  - the turtle should not draw while jumping
+
+Reusing old code
+^^^^^^^^^^^^^^^^
+
+Turn your code from week 5 into functions
   - Each individual exercise should be a function
   - Doing this, you can change which code runs just by changing which function is called.
+
+Bonus
+^^^^^
+
+1. draw_letter
+  - the first argument should be the turtle
+  - the additional argument could be size, or it could draw one size
+  - you should have a different function for different letters
+2. draw_word
+  - use the draw_letter functions and the jump function to write a word
+3. Complete the bonus exercise at the end of the slides.  There are two parts:
+    1. Make the functions that it calls so that the code will run
+    2. Change the control numbers into variables and turn it into a function
+
 
 
 Extra Resources
@@ -49,6 +80,6 @@ Online Books
 Lecture Slides
 --------------
 
-.. raw:: html
+.. raw::html
 
-    <iframe src="https://docs.google.com/presentation/d/1FOyskHWtg20Vm0dmNlUPGE8fiqqaH4bOVbLz1srGoGg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://docs.google.com/presentation/d/1FOyskHWtg20Vm0dmNlUPGE8fiqqaH4bOVbLz1srGoGg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
