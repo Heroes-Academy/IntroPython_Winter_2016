@@ -20,17 +20,6 @@ Multiple arguments are separated by commas.
 Homework
 --------
 
-1. Write functions for the following turtle abilities:
-  - spirals
-    - We did these in class, this should give you a good starting point
-  - polygons
-    - the turning angle should always be 360 / num_sides
-    - Sum of exterior angles always equals 360
-  - jumping
-    - set the turtle’s pen to up (so it doesn’t draw), then do setpos on an x and y coordinate, then put the pen back down
-  - drawing each letter of your initials
-    - you could do more letters if you want to spell your name
-  - a function that uses the letter drawing and jumping to draw both initials or to write a word
 
 Turtle Functions
 ^^^^^^^^^^^^^^^^
