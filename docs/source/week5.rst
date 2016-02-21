@@ -21,6 +21,11 @@ Videos
 2. `Khan Academy on While Loops <https://www.youtube.com/watch?v=D0Nb2Fs3Q8c>`_
 1. `Trevor Payne <https://www.youtube.com/watch?v=6HWK6O4-28E>`_
 
+Online Books
+^^^^^^^^^^^^
+1. `Think like a Computer Scientist. Chapter 7: Iteration <http://openbookproject.net/thinkcs/python/english3e/iteration.html>`_
+2. `Learn Python. Chapter on Loops <http://www.learnpython.org/en/Loops>`_
+
 Lecture Slides
 --------------
 
