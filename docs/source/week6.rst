@@ -71,4 +71,4 @@ Lecture Slides
 
 .. raw::html
 
-   <iframe src="https://docs.google.com/presentation/d/1FOyskHWtg20Vm0dmNlUPGE8fiqqaH4bOVbLz1srGoGg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/1FOyskHWtg20Vm0dmNlUPGE8fiqqaH4bOVbLz1srGoGg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
