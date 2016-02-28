@@ -27,4 +27,6 @@ To be determined
 Lecture Slides
 --------------
 
-Will be posted closer to class time.
+.. raw:: html
+
+    <iframe src="https://docs.google.com/presentation/d/1cvvz3nkfd3jrUecTNKKcxrOdP0uZtfqnDChB66XlCfk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
