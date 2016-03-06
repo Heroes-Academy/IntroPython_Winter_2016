@@ -1,28 +1,20 @@
 Week 7: Advanced Functions and Basic Classes
 ============================================
 
-
-
-Summary
 -------
 
 Last week we looked at the basics of functions and how they can take different arguments.
 
-This week, we will cover functions that can return values.
-Classes will also be introduced.  We will examine very simple classes that serve
-as convenient packages for information that get used for our turtles.
+This week, we covered functions that can return values. We talked about the simplest class: one that can hold two variables.  This class, the `Point` class, was used to make a turtle move by storing several coordinates.  We also wrote a function for making a new Point object by taking as input some values. 
 
+Finally, basic classes were introduced.  We went through the perspective that the entire world is functions and objects.  The goal is to understand classes as representing things in the world. 
 
 Homework
 --------
 
-To be determined
+Write classes for two things in the world. It should be very similar to the Dog class that is in the slides. 
 
 
-Extra Resources
----------------
-
-To be determined
 
 Lecture Slides
 --------------
